@@ -1,0 +1,124 @@
+# depslib dependency file v1.0
+1685265991 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\main.cpp
+	<iostream>
+	<string>
+	<stdexcept>
+	"Csaladi.h"
+	"Dokumentumfilm.h"
+	"Film.h"
+	"FilmTar.h"
+	"Horror.h"
+	"Mese.h"
+	"memtrace.h"
+
+1685260588 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\film.h
+	<string>
+
+1685269676 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\dokumentumfilm.h
+	"Film.h"
+	<string>
+	<sstream>
+	"memtrace.h"
+
+1685261260 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\horror.h
+	<string>
+	<sstream>
+	<iostream>
+	"Film.h"
+	"memtrace.h"
+
+1685261260 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\mese.h
+	"Film.h"
+	"memtrace.h"
+	<string>
+	<sstream>
+
+1685260588 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\csaladi.h
+	<sstream>
+	<string>
+	"Film.h"
+	"memtrace.h"
+
+1685261260 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\filmtar.h
+	<iostream>
+	<fstream>
+	<string>
+	"Csaladi.h"
+	"Dokumentumfilm.h"
+	"Film.h"
+	"Horror.h"
+	"Mese.h"
+	"memtrace.h"
+
+1685260048 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\csaladi.cpp
+	"Film.h"
+	"Csaladi.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1685261260 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\dokumentumfilm.cpp
+	<iostream>
+	<string>
+	<sstream>
+	"Dokumentumfilm.h"
+	"Film.h"
+
+1685430473 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\film.cpp
+	<iostream>
+	"Film.h"
+
+1685436905 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\filmtar.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<stdexcept>
+	"Film.h"
+	"FilmTar.h"
+
+1685261260 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\horror.cpp
+	"Horror.h"
+	"Film.h"
+	<sstream>
+	<iostream>
+	<string>
+	<fstream>
+
+1685261260 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\mese.cpp
+	"Film.h"
+	"Mese.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1685005576 source:c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\memtrace.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"memtrace.h"
+
+1685005576 c:\users\dfodor\onedrive\dokumentumok\egyetem\2.félév\prog2\nagyházi\filmtár\filmtar\memtrace.h
+	<new>
+	<cstdio>
+	<stdlib.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<list>
+	<map>
+	<algorithm>
+	<functional>
+	<memory>
+	<iomanip>
+	<locale>
+	<typeinfo>
+	<ostream>
+	<stdexcept>
+	<ctime>
+	<iterator>
+	<regex>
+

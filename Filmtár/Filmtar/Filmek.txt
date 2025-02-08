@@ -1,0 +1,23 @@
+Horror, Demonok kozott, 112, 2003, thriller
+Mese, The Little Mermaid, 83, 1989, animalt
+Csaladifilm, Toy Story, 90, 1995, 6
+Dokumentumfilm, Planet Earth, 240, 2006, David Attenborough
+Dokumentumfilm, The Social Dilemma, 94, 2020, Jeff Orlowski
+Csaladifilm, Frozen, 102, 2013, 8
+Dokumentumfilm, Earthlings, 95, 2005, Shaun Monson
+Csaladifilm, Finding Nemo, 100, 2003, 7
+Mese, Verdak, 93, 2003, animalt
+Dokumentumfilm, The Cove, 92, 2009, Louie Psihoyos
+Dokumentumfilm, Blackfish, 83, 2013, Gabriela Cowperthwaite
+Csaladifilm, The Lion King, 118, 1994, 9
+Dokumentumfilm, Free Solo, 100, 2018, Jimmy Chin
+Csaladifilm, Shrek, 90, 2001, 8
+Dokumentumfilm, March of the Penguins, 80, 2005, Luc Jacquet
+Mese, Oroszlanykiraly, 88, 1994, animalt
+Mese, Aranyhaj, 100, 2010, animalt
+Mese, Vaiana, 107, 2016, animalt
+Mese, Cinderella, 105, 1950, nimalt
+Mese, Beauty and the Beast, 129, 1991, animalt
+Mese, Aladdin, 90, 1992, animalt
+Mese, Sleeping Beauty, 75, 1959, animalt
+Mese, alma, 17, 1996, animalt
